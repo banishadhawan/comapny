@@ -39,6 +39,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-#
-# Custom ignores
-mode_modelus
+
+/lib/generated/prisma
